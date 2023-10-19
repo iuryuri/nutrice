@@ -3,6 +3,46 @@
     margin-inline-start: 0%;
     height: 20%;
 }
-.corpinho{
-    background-color: blanchedalmond;
+.corpito{
+    background: linear-gradient(to left, rgb(86, 124, 92), rgb(45, 141, 117), rgb(83, 150, 86) ,rgb(149, 190, 252) );
+
 }
+nav{
+
+    position: absolute;
+    top: 89px;
+    right: 73%;
+}
+nav a {
+    text-transform: uppercase;
+    color: rgb(30, 121, 78);
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration:solid
+}
+.imagem{
+
+    width: 15%;
+    margin-inline-start: 15%;
+   padding: 40px;
+}
+.Marca{
+
+    position: absolute;
+    top: 560px;
+    right: 69%;
+    text-transform: uppercase;
+   color: black;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration:solid
+}
+.footer {
+    width: 100%;
+margin-top: 100px;
+   }
+   
+   table, th, td{
+    border: '1px solid black';
+   }
+
