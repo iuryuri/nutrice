@@ -39,10 +39,55 @@ nav a {
 }
 .footer {
     width: 100%;
-margin-top: 100px;
+margin-top: 75px;
    }
    
-   table, th, td{
-    border: '1px solid black';
-   }
+   
+   .table, th, td {
+    border: 1px solid rgb(19, 98, 134);
+    border-collapse: collapse;
+    
+  }
 
+
+
+  .contato{
+   
+    text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+.caixa2 {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+form input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+form {
+    margin: 40px 0;
+
+ }
+
+ form label, form p {
+    display: block;
+    font-size:20px;
+    margin: 0 0 10px;
+}
+
+form input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+header{
+     
+    background-color: rgb(119, 63, 63);
+    width: 100%;
+    background-image: linear-gradient(to left, rgb(204, 117, 95), rgb(204, 119, 204))
+}
